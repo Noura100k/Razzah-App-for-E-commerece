@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977157767920",
+    "project_id": "razzah-59660",
+    "storage_bucket": "razzah-59660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977157767920:android:0252642bee0f786160f835",
+        "android_client_info": {
+          "package_name": "com.example.razzah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977157767920-equfn93qehm1lj6bm7570tqk996vfma2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtx63Z6cPgCOC5rVegOZpj2L-a4EXEC1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977157767920-equfn93qehm1lj6bm7570tqk996vfma2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
