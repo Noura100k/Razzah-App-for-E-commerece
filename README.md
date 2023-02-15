@@ -13,11 +13,3 @@
 <br>
 <h2> Screenshote </h2>
 ![login](https://user-images.githubusercontent.com/70031377/219049112-6b3223e5-6658-4545-981a-c240d6b29414.png)
-![pic1](https://user-images.githubusercontent.com/70031377/219049142-2cd5ebf2-d6d3-4739-a5c0-a0272ce38882.png)
-![pic2](https://user-images.githubusercontent.com/700313
-![pic3](https://user-images.githubusercontent.com/7003
-![signup](https://user-images.githubusercontent.com/70031377/219049234-
-![pic10](https://user-images.githubusercontent.com/70031377/219049281-f78dce63-b2db-4396-881c-b30fbfbc65c8.png)
-a210d306-90d1-4dec-886f-9fb5a24b71ca.png)
-1377/219049177-e054a452-f610-42d0-80f3-3137edc73fce.png)
-77/219049165-5b649780-4a9d-42fe-893a-593ae9dbd4ba.png)
