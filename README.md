@@ -8,4 +8,4 @@
 </h3>
 <br>
 <h2> Purpose </h2>
-<h3>The purpose of this document is to present a detailed description of Traditional Saudi Males’ Clothing System. Therefore, it will illustrate the system's functions, interfaces, requirements, features, and overall descriptions as well as how the system reacts to external and internal events. Thus, both the system developer and the stakeholders will benefit from this document.</h3>
+<h3>The purpose of Pro-FG6.pdf document is to present a detailed description of Traditional Saudi Males’ Clothing System. Therefore, it will illustrate the system's functions, interfaces, requirements, features, and overall descriptions as well as how the system reacts to external and internal events. Thus, both the system developer and the stakeholders will benefit from this document.</h3>
