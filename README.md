@@ -14,7 +14,7 @@
 <h2> Screenshote </h2>
 
 <p align="center">
-  <img src="[your_relative_path_here](https://user-images.githubusercontent.com/70031377/219049142-2cd5ebf2-d6d3-4739-a5c0-a0272ce38882.png)" width="350" title="splash">
+  <img src="https://user-images.githubusercontent.com/70031377/219049142-2cd5ebf2-d6d3-4739-a5c0-a0272ce38882.png" width="350" title="splash">
   <img src="https://user-images.githubusercontent.com/70031377/219049281-f78dce63-b2db-4396-881c-b30fbfbc65c8.png" width="350" alt="item  ">
 </p>
 
