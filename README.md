@@ -12,11 +12,9 @@
 
 <br>
 <h2> Screenshote </h2>
-![login](https://user-images.githubusercontent.com/70031377/219049112-6b3223e5-6658-4545-981a-c240d6b29414.png)
 
 ![pic1](https://user-images.githubusercontent.com/70031377/219049142-2cd5ebf2-d6d3-4739-a5c0-a0272ce38882.png)
 
-![signup](https://user-images.githubusercontent.com/70031377/219049234-
 ![pic10](https://user-images.githubusercontent.com/70031377/219049281-f78dce63-b2db-4396-881c-b30fbfbc65c8.png)
 
 
